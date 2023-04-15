@@ -35,7 +35,7 @@ const Home = () => {
               className=" flex flex-col gap-5"
             >
               <p className="font-normal text-gray-600 max-w-md ">
-                Unleash you <strong>C.R.E.A.T.I.V.I.T.Y</strong>
+                Unleash your <strong>C.R.E.A.T.I.V.I.T.Y</strong>
               </p>
               <CustomButton
                 type="filled"
